@@ -111,12 +111,6 @@
 			"revisionTime": "2018-12-05T22:25:37Z"
 		},
 		{
-			"checksumSHA1": "rfEGeim4zz2FVqTxFvf6HUuqOZc=",
-			"path": "github.com/aws/aws-sdk-go/aws/session",
-			"revision": "61f730438a4c41f77075cc03ba66ff2b7867c686",
-			"revisionTime": "2018-12-05T22:25:37Z"
-		},
-		{
 			"checksumSHA1": "NI5Qu/tfh4S4st2RsI7W8Fces9Q=",
 			"path": "github.com/aws/aws-sdk-go/aws/signer/v4",
 			"revision": "61f730438a4c41f77075cc03ba66ff2b7867c686",
@@ -203,12 +197,6 @@
 		{
 			"checksumSHA1": "B8unEuOlpQfnig4cMyZtXLZVVOs=",
 			"path": "github.com/aws/aws-sdk-go/private/protocol/xml/xmlutil",
-			"revision": "61f730438a4c41f77075cc03ba66ff2b7867c686",
-			"revisionTime": "2018-12-05T22:25:37Z"
-		},
-		{
-			"checksumSHA1": "Yf7QqY/SEIZGYk9aiXLBqNYFl40=",
-			"path": "github.com/aws/aws-sdk-go/service/s3",
 			"revision": "61f730438a4c41f77075cc03ba66ff2b7867c686",
 			"revisionTime": "2018-12-05T22:25:37Z"
 		},
@@ -480,6 +468,30 @@
 			"path": "github.com/jmespath/go-jmespath",
 			"revision": "61f730438a4c41f77075cc03ba66ff2b7867c686",
 			"revisionTime": "2018-12-05T22:25:37Z"
+		},
+		{
+			"checksumSHA1": "plbezt71dPssP+dTGgnyGYElXbM=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws",
+			"revision": "5604f1add1ce6b18465fd50f7fe8de7561cc8a62",
+			"revisionTime": "2019-02-22T20:59:01Z"
+		},
+		{
+			"checksumSHA1": "B2YInXUy0Zol3iVRtp2cJI8zHCU=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/credentials",
+			"revision": "5604f1add1ce6b18465fd50f7fe8de7561cc8a62",
+			"revisionTime": "2019-02-22T20:59:01Z"
+		},
+		{
+			"checksumSHA1": "LaFCLV09rjzaJcT7VSJUm9DDEfI=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/session",
+			"revision": "5604f1add1ce6b18465fd50f7fe8de7561cc8a62",
+			"revisionTime": "2019-02-22T20:59:01Z"
+		},
+		{
+			"checksumSHA1": "YXLs7SRbxPcBHZBnIV8hMAscRmI=",
+			"path": "github.com/journeymidnight/aws-sdk-go/service/s3",
+			"revision": "5604f1add1ce6b18465fd50f7fe8de7561cc8a62",
+			"revisionTime": "2019-02-22T20:59:01Z"
 		},
 		{
 			"checksumSHA1": "9XnQ+D6TT0pUTw2jAMJSOlnnjhA=",

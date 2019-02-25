@@ -1,8 +1,8 @@
 package _go
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/s3"
+	"github.com/journeymidnight/aws-sdk-go/aws"
+	"github.com/journeymidnight/aws-sdk-go/service/s3"
 	. "github.com/journeymidnight/yig/test/go/lib"
 	"net/http"
 	"testing"
